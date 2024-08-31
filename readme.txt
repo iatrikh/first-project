@@ -1,1 +1,0 @@
-Yandex tutorial on Git
